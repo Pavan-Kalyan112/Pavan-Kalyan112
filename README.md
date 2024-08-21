@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavan-kalyan112" alt="pavan-kalyan112" /></a> </p>
 
 
-- 🌱 I’m currently learning **Data Science, ML, Generative AI, Python**
+- 🌱 I’m currently learning **Data Science, ML, Generative AI**
 
-- 💬 Ask me about **Python for Data Analytics**
+- 💬 Ask me about **Data Analytics, Data Science, Web Development**
 
-- 📫 How to reach me **pavanneelam95@gmail.om**
+- 📫 How to reach me **pavanneelam95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
