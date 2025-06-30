@@ -46,10 +46,11 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 
   <!-- GenAI -->
-  <a href="https://platform.openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/></a>
+  <a href="https://platform.openai.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/4f76b92b43d38b5f2de9d74e91a902f6d5f760ba/topics/openai/openai.png" alt="OpenAI" width="40" height="40" />
+</a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
   <a href="https://langchain.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139989207?s=200&v=4" alt="LangChain" width="40" height="40"/></a>
-  <a href="https://llamaindex.ai/" target="_blank"><img src="https://github.com/jerryjliu/llama_index/assets/106714718/93e42692-f079-4212-bb43-44f987b5df40" alt="LlamaIndex" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
 </p>
 
