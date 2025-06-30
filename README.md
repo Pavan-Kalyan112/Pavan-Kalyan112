@@ -55,6 +55,18 @@
 </p>
 
 ---
+---
+
+<h3 align="left">📚 Publication:</h3>
+
+<ul>
+  <li>
+    <strong>Comprehensive Analysis of SPL Genes in Cucurbitaceae Species: Evolutionary Insights, Functional Diversity, and Regulatory Mechanisms</strong><br>
+    <em>Published on April 17, 2025</em><br>
+    DOI: <a href="https://doi.org/10.1007/s40995-025-01818-w" target="_blank">10.1007/s40995-025-01818-w</a>
+  </li>
+</ul>
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
