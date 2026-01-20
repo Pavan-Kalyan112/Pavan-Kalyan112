@@ -1,7 +1,7 @@
 +<h1 align="center">Hi 👋, I'm Pavan Kalyan</h1>
 <h3 align="center">
 AI / ML Engineer | Data Scientist | Generative AI Enthusiast 
-</h3><h4> Hyderabad, India | Open to Onsite & Relocation </h4>
+</h3><h4 align="center"> Hyderabad, India | Open to Onsite & Relocation </h4>
 
 <p align="center">
 Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
