@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Kalyan</h1>
++<h1 align="center">Hi 👋, I'm Pavan Kalyan</h1>
 <h3 align="center">
 AI / ML Engineer | Data Scientist | Generative AI Enthusiast 
 </h3><h4> Hyderabad, India | Open to Onsite & Relocation </h4>
@@ -67,122 +67,119 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
 
 <hr/>
 
----
 
-<h3 align="left"> Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools</h3>
+
+<!-- ================= Programming Languages ================= -->
+<h4> Programming Languages</h4>
 <p align="left">
-
-  <!-- Programming -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-------
-  <!-- Data Analysis -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-         alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-         alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
-         alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-         alt="Seaborn" width="40" height="40"/>
-  </a>
-------
-  <!-- Machine Learning & Deep Learning -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
-         alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
-         alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
-         alt="PyTorch" width="40" height="40"/>
-  </a>
-------
-  <!-- Generative AI & LLMs -->
-  <a href="https://platform.openai.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png"
-         alt="OpenAI" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-         alt="Hugging Face" width="40" height="40"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/139989207?s=200&v=4"
-         alt="LangChain" width="40" height="40"/>
-  </a>
-------
-  <!-- Vector Databases -->
-  <a href="https://www.trychroma.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/109568047?s=200&v=4"
-         alt="ChromaDB" width="40" height="40"/>
-  </a>
-  <a href="https://faiss.ai/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/54859471?s=200&v=4"
-         alt="FAISS" width="40" height="40"/>
-  </a>
-------
-  <!-- Web & Backend -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
-         alt="FastAPI" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
-         alt="Flask" width="40" height="40"/>
-  </a>
-------
-  <!-- DevOps & Tools -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-         alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-         alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-         alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
-         alt="Jupyter Notebook" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-         alt="VS Code" width="40" height="40"/>
-  </a>
-
 </p>
 
----
+<!-- ================= Data Analysis ================= -->
+<h4> Data Analysis & Visualization</h4>
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+</p>
 
-<h3 align="left">📚 Publication:</h3>
+<!-- ================= Machine Learning ================= -->
+<h4> Machine Learning</h4>
+<p align="left">
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ================= Deep Learning ================= -->
+<h4> Deep Learning</h4>
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ================= Generative AI ================= -->
+<h4> Generative AI & LLMs</h4>
+<p align="left">
+  <a href="https://platform.openai.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" alt="OpenAI" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/139989207?s=200&v=4" alt="LangChain" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ================= Vector Databases ================= -->
+<h4> Vector Databases</h4>
+<p align="left">
+  <a href="https://www.trychroma.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/109568047?s=200&v=4" alt="ChromaDB" width="40" height="40"/>
+  </a>
+  <a href="https://faiss.ai/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/54859471?s=200&v=4" alt="FAISS" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ================= Backend & APIs ================= -->
+<h4> Backend & APIs</h4>
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ================= DevOps & Tools ================= -->
+<h4> DevOps & Developer Tools</h4>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left"> Publication:</h3>
 
 <ul>
   <li>
