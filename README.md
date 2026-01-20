@@ -35,7 +35,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
 </p>
 
 ---
-<h3>🚀 What I Do</h3>
+<h3> What I Do</h3>
 <ul>
   <li>Build end-to-end <b>Machine Learning & Deep Learning</b> solutions</li>
   <li>Develop <b>AI Agents, RAG pipelines, and LLM-powered applications</b></li>
@@ -45,7 +45,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
 ---
 <hr/>
 
-<h3>📌 Featured Projects</h3>
+<h3> Featured Projects</h3>
 <ul>
   <li>
     <b>AI Resume Screening Agent (Accenture GenAI Hackathon)</b><br/>
@@ -67,9 +67,9 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
 
 <hr/>
 
+---
 
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 <p align="left">
 
   <!-- Programming -->
@@ -89,7 +89,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
          alt="PostgreSQL" width="40" height="40"/>
   </a>
-
+------
   <!-- Data Analysis -->
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
@@ -107,7 +107,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
          alt="Seaborn" width="40" height="40"/>
   </a>
-
+------
   <!-- Machine Learning & Deep Learning -->
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
@@ -121,7 +121,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
          alt="PyTorch" width="40" height="40"/>
   </a>
-
+------
   <!-- Generative AI & LLMs -->
   <a href="https://platform.openai.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png"
@@ -135,7 +135,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
     <img src="https://avatars.githubusercontent.com/u/139989207?s=200&v=4"
          alt="LangChain" width="40" height="40"/>
   </a>
-
+------
   <!-- Vector Databases -->
   <a href="https://www.trychroma.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/109568047?s=200&v=4"
@@ -145,7 +145,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
     <img src="https://avatars.githubusercontent.com/u/54859471?s=200&v=4"
          alt="FAISS" width="40" height="40"/>
   </a>
-
+------
   <!-- Web & Backend -->
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
@@ -155,7 +155,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
          alt="Flask" width="40" height="40"/>
   </a>
-
+------
   <!-- DevOps & Tools -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
@@ -180,8 +180,6 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
 
 </p>
 
-
----
 ---
 
 <h3 align="left">📚 Publication:</h3>
@@ -194,7 +192,7 @@ Building end-to-end ML & AI solutions using Python, Deep Learning, and LLMs
   </li>
 </ul>
 
-
+---
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
