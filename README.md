@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Kalyan Neelam</h1>
 <h3 align="center">
-AI Engineer | Voice AI & Agent Architect | RAG & LLM Specialist
+AI Engineer | Voice AI & Agent Architect | GenAI Solutions Architect
 </h3>
 <h4 align="center"> Hyderabad, India | Open to Onsite & Relocation </h4>
 
@@ -17,29 +17,93 @@ AI Engineer | Voice AI & Agent Architect | RAG & LLM Specialist
 ---
 
 ## 👨‍💻 Professional Summary
-AI Engineer with hands-on experience building **Generative AI, Voice AI, RAG pipelines, and AI agents**. Skilled in developing production-grade conversational AI systems, optimizing retrieval architectures, and deploying scalable LLM-powered applications and workflows.
+AI Engineer specializing in **Generative AI, Voice AI, RAG pipelines, and AI Agents**. Proven track record in designing scalable AI system designs, optimizing retrieval latency, conducting quality metrics evaluations, and deploying containerized, production-grade LLM workflows.
 
 ---
 
-## 🎙️ Core Engineering Blueprint (Voice AI & RAG)
-Here is the standard high-performance architecture I build and optimize for conversational voice agents:
+## 🏗️ AI System Design Blueprint
+Experienced in designing and optimizing high-performance, real-time conversational architectures:
 
+[ User Voice ] ──(WebRTC/SIP)──> [ LiveKit / Vapi ] ──(STT)──> [ Transcription Pipeline ] │ [ Agent Response ] <──(TTS)── [ LLM Agent Core ] <──(Context)── [ RAG Search (Qdrant) ] │ │ [ Guardrails ] [ Connection Pool ] (JSON Schema) (PgBouncer)
+
+
+---
+
+## 🚧 Currently Building
+- **Enterprise Dynamic Context Layer (DCL):** Multi-tenant RAG context optimization system.
+- **Multi-Agent Systems:** Cooperative agent orchestrations utilizing LangGraph and CrewAI.
+- **Context-Aware Voice AI Agents:** Low-latency healthcare scheduling agents using LiveKit.
+- **AI Solution Architecture Roadmap:** Reusable blueprints for corporate AI automation.
+
+---
+
+## 🏗️ AI System Design Capabilities
+- Agentic AI Systems & Multi-Agent Workflows
+- Enterprise Retrieval-Augmented Generation (RAG) Platforms
+- Live Voice AI & Speech Synthesis/Ingestion Pipelines
+- Context Engineering & Dynamic Context Layers (DCL)
+- Event-Driven AI Workflows & Workflow Automation
+- AI Governance, Evaluation & Observability Systems
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🎙️ GenAI, Voice AI & NLP
+### 🎙️ GenAI Orchestration & Agent Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Orchestration-LangChain-1C3C3A?style=flat-square&logo=chainlink" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Agents-LangGraph-0052FF?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Multi--Agent-CrewAI-FF3E00?style=flat-square" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Data%20Framework-LlamaIndex-00C7B7?style=flat-square" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Framework-MCP-FF6F00?style=flat-square" alt="MCP" />
+</p>
+
+### 🔎 Retrieval Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Retrieval-Semantic%20Search-blue?style=flat-square" alt="Semantic Search" />
+  <img src="https://img.shields.io/badge/Retrieval-Hybrid%20Search-indigo?style=flat-square" alt="Hybrid Search" />
+  <img src="https://img.shields.io/badge/Retrieval-Reranking%20(Cohere)-orange?style=flat-square" alt="Reranking" />
+  <img src="https://img.shields.io/badge/RAG-Query%20Transformation-brightgreen?style=flat-square" alt="Query Transformation" />
+  <img src="https://img.shields.io/badge/RAG-Context%20Compression-red?style=flat-square" alt="Context Compression" />
+  <img src="https://img.shields.io/badge/RAG-Chunking%20Strategies-darkgreen?style=flat-square" alt="Chunking Strategies" />
+</p>
+
+### 📈 AI Evaluation & Observability
+<p align="left">
+  <img src="https://img.shields.io/badge/Observability-Langfuse-orange?style=flat-square" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/Evaluation-Ragas-brightgreen?style=flat-square" alt="Ragas" />
+  <img src="https://img.shields.io/badge/Validation-Guardrails-red?style=flat-square" alt="Guardrails" />
+  <img src="https://img.shields.io/badge/Testing-Prompt%20Testing-blue?style=flat-square" alt="Prompt Testing" />
+  <img src="https://img.shields.io/badge/Evaluation-Hallucination%20Detection-yellow?style=flat-square" alt="Hallucination Detection" />
+</p>
+
+### 🎙️ LLMs, Voice AI & Inference
 <p align="left">
   <img src="https://img.shields.io/badge/Voice%20AI-Vapi-00C7B7?style=flat-square" alt="Vapi" />
   <img src="https://img.shields.io/badge/Voice%20AI-LiveKit-4054B2?style=flat-square" alt="LiveKit" />
-  <img src="https://img.shields.io/badge/Orchestration-LangChain-1C3C3A?style=flat-square&logo=chainlink" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Framework-MCP-FF6F00?style=flat-square" alt="MCP" />
   <img src="https://img.shields.io/badge/LLM-OpenAI-412991?style=flat-square&logo=openai" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval-blue?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Guardrails-Validation-red?style=flat-square" alt="Guardrails" />
-  <img src="https://img.shields.io/badge/LLM-Fine--Tuning-green?style=flat-square" alt="Fine-Tuning" />
+  <img src="https://img.shields.io/badge/Inference-Ollama-white?style=flat-square&logoColor=black" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Inference-vLLM-blue?style=flat-square" alt="vLLM" />
+</p>
+
+### 🌐 Data Acquisition & Pipelines
+<p align="left">
+  <img src="https://img.shields.io/badge/Scraping-BeautifulSoup-green?style=flat-square" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/Automation-Playwright-2E8B57?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Browser%20Automation-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Scraping-Firecrawl-orange?style=flat-square" alt="Firecrawl" />
+  <img src="https://img.shields.io/badge/AI%20Scraping-crawl4AI-0052FF?style=flat-square" alt="Crawl4AI" />
+  <img src="https://img.shields.io/badge/Agentic-Browser%20Use-purple?style=flat-square" alt="Browser Use" />
+</p>
+
+### 🏢 Enterprise AI Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/System-Production%20AI%20Systems-success?style=flat-square" alt="Production AI Systems" />
+  <img src="https://img.shields.io/badge/Expertise-AI%20Agent%20Design-blueviolet?style=flat-square" alt="AI Agent Design" />
+  <img src="https://img.shields.io/badge/Expertise-RAG%20Optimization-informational?style=flat-square" alt="RAG Optimization" />
+  <img src="https://img.shields.io/badge/Expertise-Voice%20AI%20Architecture-warning?style=flat-square" alt="Voice AI Architecture" />
+  <img src="https://img.shields.io/badge/Expertise-Retrieval%20Engineering-red?style=flat-square" alt="Retrieval Engineering" />
 </p>
 
 ### 💻 Languages & Data Science
@@ -50,26 +114,16 @@ Here is the standard high-performance architecture I build and optimize for conv
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-013243?style=flat-square" alt="Matplotlib" />
 </p>
 
-### 🗄️ Databases & Infrastructure
+### ☁️ Deployment & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/VectorDB-Qdrant-FF5733?style=flat-square" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/VectorDB-ChromaDB-00C7B7?style=flat-square" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-### 👥 Soft Skills & Attributes
-<p align="left">
-  <img src="https://img.shields.io/badge/Analytical%20Thinking-Interactive-success?style=flat-square" alt="Analytical Thinking" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-Creative-blueviolet?style=flat-square" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/Collaboration-Teamwork-informational?style=flat-square" alt="Teamwork" />
-  <img src="https://img.shields.io/badge/Time%20Management-Reliable-warning?style=flat-square" alt="Time Management" />
+  <img src="https://img.shields.io/badge/Containerization-AI%20Applications-blue?style=flat-square" alt="Containerized AI Applications" />
 </p>
 
 ---
@@ -78,13 +132,12 @@ Here is the standard high-performance architecture I build and optimize for conv
 
 ### 🏢 **Seanergy.AI** — *AI/ML Intern*  
 📅 **Feb 2026 – Present** | 📍 Hyderabad, India  
-*   **MYURI – LiveKit Voice Agent Platform:** Optimized latency and retrieval performance of production-level RAG pipelines specifically for conversational voice agents.
-*   Implemented **PgBouncer** connection pooling to efficiently manage active PostgreSQL connections.
-*   Replaced LiveKit Egress with **RecorderIO** to streamline and stabilize call-recording workflows.
+*   **MYURI – LiveKit Voice Agent Platform:** Reduced retrieval latency and optimized RAG pipeline performance for conversational voice agents through **PgBouncer** connection pooling and optimized PostgreSQL query execution.
+*   Replaced LiveKit Egress with **RecorderIO** to build and stabilize enterprise conversation-recording workflows.
 
 ### 🏢 **MedConcepts** — *Healthcare Voice Agents Developer*  
 📅 **Apr 2026 – May 2026** | 📍 Hyderabad, India / Remote  
-*   Designed and built healthcare voice agents for surgery scheduling and pre-operative health screenings using **Vapi** and **OpenAI API**.
+*   Built and deployed healthcare voice agents for surgery scheduling and pre-operative health screening using **Vapi** and **OpenAI API**.
 *   Implemented clinical workflows including patient verification, structured response capture, custom tool calling, escalation handling, and automated status updates.
 
 ### 🏢 **Infosys Springboard** — *AI Intern*  
@@ -103,12 +156,19 @@ Here is the standard high-performance architecture I build and optimize for conv
 ### 🎙️ [Sarah AI – Conversational AI Interviewer](https://github.com/pavan-kalyan112/Sarah-AI)
 *   **Problem:** Manual screening and interviewing candidates is slow and resource-heavy.
 *   **Solution:** Built a real-time voice-driven virtual interviewer using FastAPI and OpenAI GPT to conduct role-based evaluations.
-*   **Results:** Generates automated performance metrics and feedback immediately after the call, saving recruiter hours.
+*   **Results:** Reduced recruiter screening effort by automating initial candidate interviews and generating structured candidate evaluations and feedback reports in real time.
 
 ### 🔍 [AI Resume Screening Agent](https://github.com/pavan-kalyan112)
 *   **Problem:** Simple keyword matchers miss highly qualified resumes that lack exact phrasing.
 *   **Solution:** Developed a semantic resume-to-JD matching pipeline using ChromaDB for Vector search and OpenAI embeddings.
 *   **Results:** Improved semantic and contextual matching accuracy by **28%**.
+
+---
+
+## 🌍 Open Source & Community
+- Contributing to open-source AI and GenAI ecosystems.
+- Exploring LangChain, LangGraph, and Agentic AI workflow patterns.
+- Building and sharing reusable AI codebases and developer tools.
 
 ---
 
