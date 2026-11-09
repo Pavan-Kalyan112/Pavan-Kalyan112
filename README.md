@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Pavan Kalyan Neelam</h1>
 
 <h3 align="center">
-AI/ML Engineer | Enterprise AI | Agentic AI | RAG | Voice AI
+AI Engineer building Generative AI applications, Agentic workflows, Enterprise knowledge systems, and Intelligent voice solutions.
 </h3>
 
 <p align="center">
